@@ -1,6 +1,6 @@
-# entando-releases
+# villanova-releases
 
-Coordination repository for the Entando releases
+Coordination repository for the Villanova releases
 
 # Directory Structure:
  - The **`dist`** directory contains the data required by the installations procedures

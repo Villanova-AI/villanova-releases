@@ -1,24 +1,24 @@
-# ENTANDO VERSION
-ENTANDO_RELEASE="v7.3.0"
+# VILLANOVA VERSION
+ENTANDO_RELEASE="v0.9.0"
 
 # --------------------------------------------------------------------------------
 
 # OLM INSTALLATIONS - OPERATOR BUNDLE
-OPERATOR_BUNDLE_VERSION="v7.3.0"
-REPO_OPERATOR_BUNDLE_ADDR="https://github.com/entando-k8s/entando-k8s-operator-bundle.git"
-REPO_OPERATOR_BUNDLE_DIR="entando-k8s-operator-bundle"
-OKD_CATALOG_IMAGE="registry.hub.docker.com/entandobuilduser/entando-k8s-index@sha256:1a2367aa0ecdbbe03b9a3eed8986836aa546b59a130e9a364696042f1e237558"
+OPERATOR_BUNDLE_VERSION="v0.9.0"
+REPO_OPERATOR_BUNDLE_ADDR="https://github.com/Villanova-AI/villanova-k8s-operator-bundle.git"
+REPO_OPERATOR_BUNDLE_DIR="villanova-k8s-operator-bundle"
+OKD_CATALOG_IMAGE="registry.hub.docker.com/dockervillanova/villanova-k8s-index@sha256:1a2367aa0ecdbbe03b9a3eed8986836aa546b59a130e9a364696042f1e237558"
 
-# TOOL: ENTANDO CLI
-ENTANDO_CLI_VERSION="v7.3.0"
+# TOOL: VILLANOVA CLI
+ENTANDO_CLI_VERSION="v0.9.0"
 
 # TOOL: BUNDLER
-REPO_ENTANDO_BUNDLER_ADDR="https://github.com/entando/entando-bundler"
+REPO_ENTANDO_BUNDLER_ADDR="https://github.com/villanova-AI/villanova-bundler"
 VER_ENTANDO_BUNDLER_REQ="v7.3.0"
 VER_ENTANDO_BUNDLER_DEF="v7.3.0"
 
 # TOOL: entando-bundle-cli
-REPO_ENTANDO_BUNDLE_CLI_ADDR="https://github.com/entando/entando-bundle-cli"
+REPO_ENTANDO_BUNDLE_CLI_ADDR="https://github.com/villanova-AI/villanova-bundle-cli"
 VER_ENTANDO_BUNDLE_CLI_REQ="v1.2.0"
 VER_ENTANDO_BUNDLE_CLI_DEF="v1.2.0"
 
