@@ -2,7 +2,7 @@
 apiVersion: entando.org/v1
 kind: EntandoApp
 metadata:
-  namespace: entando
+  namespace: villanova
   name: quickstart
 spec:
   environmentVariables: null
