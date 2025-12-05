@@ -5,6 +5,7 @@ metadata:
   namespace: {{ENTANDO_NAMESPACE}}
   name: {{ENTANDO_APP_NAME}}
 spec:
+  ingressPath: {{ENTANDO_INGRESS_PATH}}
   environmentVariables: {{ENTANDO_VARS}}
   dbms: {{ENTANDO_DBMS}}
   ingressHostName: {{ENTANDO_HOSTNAME}}
